@@ -1,5 +1,5 @@
 ### Hi there, my name is Andrew 👋
-- 🌱 I’m currently learning HTML, CSS, and Javascript
+- 🌱 I’m currently learning HTML, CSS
 - 😄 Pronouns: he/him
 
 <!--
